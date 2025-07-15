@@ -31,9 +31,9 @@ Helped executives make strategic decisions with confidence.
 Improved operational efficiency, campaign ROI, stock planning, and profit margins.
 
 🔗 Live Dashboard:
-
+https://app.powerbi.com/view?r=eyJrIjoiMjMzYzNjZjItMDA2ZS00NmU3LWFkNTYtODRiYTE5YWM3NTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ### Explain Video 
-
+https://youtu.be/qjclLi_ij3E
 ### ScreenShots
 
 ### Home Page
